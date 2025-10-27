@@ -1,0 +1,9 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  # الحزمة المطلوبة لعرض الويب (WebView)
+  webview_flutter: ^4.2.2 
+
+# تعريف ملفات الويب الخاصة بك كأصول (Assets)
+assets:
+  - assets/
